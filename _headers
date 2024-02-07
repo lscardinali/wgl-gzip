@@ -21,16 +21,12 @@ Content-Encoding: br
 
 /*.data.gz
 Content-Type: application/gzip 
-Content-Encoding: gz
 
 /*.wasm.gz
 Content-Type: application/wasm
-Content-Encoding: gz
 
 /*.js.gz
 Content-Type: application/javascript 
-Content-Encoding: gz
 
 /*.symbols.json.gz
 Content-Type: application/octet-stream
-Content-Encoding: gz
