@@ -1,23 +1,5 @@
 /*
-Accept-Encoding: gzip, br
-
-
-/*.data.br
-Content-Type: application/octet-stream
-Content-Encoding: br
-
-/*.wasm.br
-Content-Type: application/wasm
-Content-Encoding: br
-
-/*.js.br
-Content-Type: application/javascript 
-Content-Encoding: br
-
-/*.symbols.json.br
-Content-Type: application/octet-stream
-Content-Encoding: br
-
+Accept-Encoding: gzip
 
 /*.data.gz
 Content-Type: application/gzip 
