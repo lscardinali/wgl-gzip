@@ -1,0 +1,36 @@
+/*
+Accept-Encoding: gzip, br
+
+
+/*.data.br
+Content-Type: application/octet-stream
+Content-Encoding: br
+
+/*.wasm.br
+Content-Type: application/wasm
+Content-Encoding: br
+
+/*.js.br
+Content-Type: application/javascript 
+Content-Encoding: br
+
+/*.symbols.json.br
+Content-Type: application/octet-stream
+Content-Encoding: br
+
+
+/*.data.gz
+Content-Type: application/gzip 
+Content-Encoding: gz
+
+/*.wasm.gz
+Content-Type: application/wasm
+Content-Encoding: gz
+
+/*.js.gz
+Content-Type: application/javascript 
+Content-Encoding: gz
+
+/*.symbols.json.gz
+Content-Type: application/octet-stream
+Content-Encoding: gz
