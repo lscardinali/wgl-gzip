@@ -2,13 +2,17 @@
 Accept-Encoding: gzip
 
 /*.data.gz
-Content-Type: application/gzip 
+Content-Type: application/gzip
+Content-Encoding: gzip
 
 /*.wasm.gz
 Content-Type: application/wasm
+Content-Encoding: gzip
 
 /*.js.gz
 Content-Type: application/javascript 
+Content-Encoding: gzip
 
 /*.symbols.json.gz
 Content-Type: application/octet-stream
+Content-Encoding: gzip
